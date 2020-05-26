@@ -11,6 +11,7 @@
     Notes: allow user to select input increments and select output.
     allow to select travel times for distance by dividing in half for space craft deceleration time. 
     display Planet or object of interest. distances
+    Adding this line 5/26 just to see what happens.
 */
     
 #include <iostream>
